@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeRegister.Common", "TimeRegister.Common\TimeRegister.Common.csproj", "{C93A0350-F8A8-4FCC-BCE3-3ED8BA28C622}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeRegister.Functions", "TimeRegister.Functions\TimeRegister.Functions.csproj", "{175B9DA1-E58F-4911-8179-1A10AA022541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C93A0350-F8A8-4FCC-BCE3-3ED8BA28C622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C93A0350-F8A8-4FCC-BCE3-3ED8BA28C622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93A0350-F8A8-4FCC-BCE3-3ED8BA28C622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C93A0350-F8A8-4FCC-BCE3-3ED8BA28C622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{175B9DA1-E58F-4911-8179-1A10AA022541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{175B9DA1-E58F-4911-8179-1A10AA022541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{175B9DA1-E58F-4911-8179-1A10AA022541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{175B9DA1-E58F-4911-8179-1A10AA022541}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5D95BA4-5E28-4FEB-89B3-22208302621F}
+	EndGlobalSection
+EndGlobal
